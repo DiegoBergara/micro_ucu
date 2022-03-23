@@ -12,4 +12,9 @@ main:
     cbi PORTB, 3
     sbi DDRB, 2
     cbi PORTB, 2
+    
+    sbi PORTB, 5
+    sbi PORTB, 4
+    sbi PORTB, 3
+    sbi PORTB, 2
     rjmp main
