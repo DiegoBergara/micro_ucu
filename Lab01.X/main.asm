@@ -11,7 +11,7 @@ setLedsOn:
     cbi PORTB, 5
     cbi PORTB, 4
     cbi PORTB, 3
-    cbi PORTB, 2
+    cbi PORTB, 2   
 turnLedsOff:
     sbi PORTB, 5
     sbi PORTB, 4
