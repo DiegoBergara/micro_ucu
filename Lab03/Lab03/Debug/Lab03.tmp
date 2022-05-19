@@ -1,18 +1,18 @@
 <ASSEMBLER_INFO>
  <VERSION>2.2.8</VERSION>
  <DEVICE>"ATmega328P"</DEVICE>
- <WORKING_DIR>C:\Users\roera\Documents\Atmel Studio\7.0\Lab03\Lab03\Debug</WORKING_DIR>
+ <WORKING_DIR>C:\Users\roera\OneDrive\Documents\micro_ucu\Lab03\Lab03\Debug</WORKING_DIR>
  <INCLUDE_PATH>
   <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
   <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
   <DIR></DIR>
  </INCLUDE_PATH>
- <SOURCE_FILE>C:\Users\roera\Documents\Atmel Studio\7.0\Lab03\Lab03\main.asm</SOURCE_FILE>
+ <SOURCE_FILE>C:\Users\roera\OneDrive\Documents\micro_ucu\Lab03\Lab03\main.asm</SOURCE_FILE>
  <INCLUDED_FILES>
   <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
  </INCLUDED_FILES>
  <OBJECT_FILES>
-  <FILE>C:\Users\roera\Documents\Atmel Studio\7.0\Lab03\Lab03\Debug\Lab03.obj</FILE>
+  <FILE>C:\Users\roera\OneDrive\Documents\micro_ucu\Lab03\Lab03\Debug\Lab03.obj</FILE>
  </OBJECT_FILES>
  <HEX_FILES>
   <FILE>Lab03.hex</FILE>
@@ -22,10 +22,13 @@
   <FILE>Lab03.lss</FILE>
  </OUTPUT_FILES>
  <LABELS>
-  <start><FILE>C:\Users\roera\Documents\Atmel Studio\7.0\Lab03\Lab03\main.asm</FILE><LINE>6</LINE></start>
-  <_tmr0_int><FILE>C:\Users\roera\Documents\Atmel Studio\7.0\Lab03\Lab03\main.asm</FILE><LINE>41</LINE></_tmr0_int>
-  <main><FILE>C:\Users\roera\Documents\Atmel Studio\7.0\Lab03\Lab03\main.asm</FILE><LINE>37</LINE></main>
-  <_tmr0_out><FILE>C:\Users\roera\Documents\Atmel Studio\7.0\Lab03\Lab03\main.asm</FILE><LINE>47</LINE></_tmr0_out>
-  <toggle_leds><FILE>C:\Users\roera\Documents\Atmel Studio\7.0\Lab03\Lab03\main.asm</FILE><LINE>52</LINE></toggle_leds>
+  <start><FILE>C:\Users\roera\OneDrive\Documents\micro_ucu\Lab03\Lab03\main.asm</FILE><LINE>8</LINE></start>
+  <button_int><FILE>C:\Users\roera\OneDrive\Documents\micro_ucu\Lab03\Lab03\main.asm</FILE><LINE>81</LINE></button_int>
+  <_tmr0_int><FILE>C:\Users\roera\OneDrive\Documents\micro_ucu\Lab03\Lab03\main.asm</FILE><LINE>60</LINE></_tmr0_int>
+  <main><FILE>C:\Users\roera\OneDrive\Documents\micro_ucu\Lab03\Lab03\main.asm</FILE><LINE>55</LINE></main>
+  <_tmr0_out><FILE>C:\Users\roera\OneDrive\Documents\micro_ucu\Lab03\Lab03\main.asm</FILE><LINE>67</LINE></_tmr0_out>
+  <toggle_leds><FILE>C:\Users\roera\OneDrive\Documents\micro_ucu\Lab03\Lab03\main.asm</FILE><LINE>72</LINE></toggle_leds>
+  <button1><FILE>C:\Users\roera\OneDrive\Documents\micro_ucu\Lab03\Lab03\main.asm</FILE><LINE>90</LINE></button1>
+  <button2><FILE>C:\Users\roera\OneDrive\Documents\micro_ucu\Lab03\Lab03\main.asm</FILE><LINE>95</LINE></button2>
  </LABELS>
 </ASSEMBLER_INFO>
