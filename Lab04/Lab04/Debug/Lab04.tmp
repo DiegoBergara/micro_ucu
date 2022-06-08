@@ -1,0 +1,60 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\roera\Documents\Atmel Studio\7.0\Lab04\Lab04\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\roera\Documents\Atmel Studio\7.0\Lab04\Lab04\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\roera\Documents\Atmel Studio\7.0\Lab04\Lab04\Debug\Lab04.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab04.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab04.map</FILE>
+  <FILE>Lab04.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\roera\Documents\Atmel Studio\7.0\Lab04\Lab04\main.asm</FILE><LINE>45</LINE></start>
+  <button_int><FILE>C:\Users\roera\Documents\Atmel Studio\7.0\Lab04\Lab04\main.asm</FILE><LINE>127</LINE></button_int>
+  <_tmr0_int><FILE>C:\Users\roera\Documents\Atmel Studio\7.0\Lab04\Lab04\main.asm</FILE><LINE>107</LINE></_tmr0_int>
+  <main><FILE>C:\Users\roera\Documents\Atmel Studio\7.0\Lab04\Lab04\main.asm</FILE><LINE>102</LINE></main>
+  <showInDisplay><FILE>C:\Users\roera\Documents\Atmel Studio\7.0\Lab04\Lab04\main.asm</FILE><LINE>238</LINE></showInDisplay>
+  <_tmr0_out><FILE>C:\Users\roera\Documents\Atmel Studio\7.0\Lab04\Lab04\main.asm</FILE><LINE>117</LINE></_tmr0_out>
+  <toggle_leds><FILE>C:\Users\roera\Documents\Atmel Studio\7.0\Lab04\Lab04\main.asm</FILE><LINE>122</LINE></toggle_leds>
+  <add_seconds><FILE>C:\Users\roera\Documents\Atmel Studio\7.0\Lab04\Lab04\main.asm</FILE><LINE>277</LINE></add_seconds>
+  <button1><FILE>C:\Users\roera\Documents\Atmel Studio\7.0\Lab04\Lab04\main.asm</FILE><LINE>136</LINE></button1>
+  <button2><FILE>C:\Users\roera\Documents\Atmel Studio\7.0\Lab04\Lab04\main.asm</FILE><LINE>143</LINE></button2>
+  <sacanum><FILE>C:\Users\roera\Documents\Atmel Studio\7.0\Lab04\Lab04\main.asm</FILE><LINE>151</LINE></sacanum>
+  <dato_serie><FILE>C:\Users\roera\Documents\Atmel Studio\7.0\Lab04\Lab04\main.asm</FILE><LINE>159</LINE></dato_serie>
+  <loop_dato1><FILE>C:\Users\roera\Documents\Atmel Studio\7.0\Lab04\Lab04\main.asm</FILE><LINE>161</LINE></loop_dato1>
+  <loop_dato2><FILE>C:\Users\roera\Documents\Atmel Studio\7.0\Lab04\Lab04\main.asm</FILE><LINE>167</LINE></loop_dato2>
+  <loop_dato3><FILE>C:\Users\roera\Documents\Atmel Studio\7.0\Lab04\Lab04\main.asm</FILE><LINE>169</LINE></loop_dato3>
+  <translate_num><FILE>C:\Users\roera\Documents\Atmel Studio\7.0\Lab04\Lab04\main.asm</FILE><LINE>175</LINE></translate_num>
+  <translate_0><FILE>C:\Users\roera\Documents\Atmel Studio\7.0\Lab04\Lab04\main.asm</FILE><LINE>198</LINE></translate_0>
+  <translate_1><FILE>C:\Users\roera\Documents\Atmel Studio\7.0\Lab04\Lab04\main.asm</FILE><LINE>202</LINE></translate_1>
+  <translate_2><FILE>C:\Users\roera\Documents\Atmel Studio\7.0\Lab04\Lab04\main.asm</FILE><LINE>206</LINE></translate_2>
+  <translate_3><FILE>C:\Users\roera\Documents\Atmel Studio\7.0\Lab04\Lab04\main.asm</FILE><LINE>210</LINE></translate_3>
+  <translate_4><FILE>C:\Users\roera\Documents\Atmel Studio\7.0\Lab04\Lab04\main.asm</FILE><LINE>214</LINE></translate_4>
+  <translate_5><FILE>C:\Users\roera\Documents\Atmel Studio\7.0\Lab04\Lab04\main.asm</FILE><LINE>218</LINE></translate_5>
+  <translate_6><FILE>C:\Users\roera\Documents\Atmel Studio\7.0\Lab04\Lab04\main.asm</FILE><LINE>222</LINE></translate_6>
+  <translate_7><FILE>C:\Users\roera\Documents\Atmel Studio\7.0\Lab04\Lab04\main.asm</FILE><LINE>226</LINE></translate_7>
+  <translate_8><FILE>C:\Users\roera\Documents\Atmel Studio\7.0\Lab04\Lab04\main.asm</FILE><LINE>230</LINE></translate_8>
+  <translate_9><FILE>C:\Users\roera\Documents\Atmel Studio\7.0\Lab04\Lab04\main.asm</FILE><LINE>234</LINE></translate_9>
+  <num1><FILE>C:\Users\roera\Documents\Atmel Studio\7.0\Lab04\Lab04\main.asm</FILE><LINE>250</LINE></num1>
+  <num2><FILE>C:\Users\roera\Documents\Atmel Studio\7.0\Lab04\Lab04\main.asm</FILE><LINE>257</LINE></num2>
+  <num3><FILE>C:\Users\roera\Documents\Atmel Studio\7.0\Lab04\Lab04\main.asm</FILE><LINE>263</LINE></num3>
+  <num4><FILE>C:\Users\roera\Documents\Atmel Studio\7.0\Lab04\Lab04\main.asm</FILE><LINE>269</LINE></num4>
+  <add_dec_sec><FILE>C:\Users\roera\Documents\Atmel Studio\7.0\Lab04\Lab04\main.asm</FILE><LINE>284</LINE></add_dec_sec>
+  <add_min><FILE>C:\Users\roera\Documents\Atmel Studio\7.0\Lab04\Lab04\main.asm</FILE><LINE>291</LINE></add_min>
+  <add_dec_min><FILE>C:\Users\roera\Documents\Atmel Studio\7.0\Lab04\Lab04\main.asm</FILE><LINE>298</LINE></add_dec_min>
+  <clear_clock><FILE>C:\Users\roera\Documents\Atmel Studio\7.0\Lab04\Lab04\main.asm</FILE><LINE>305</LINE></clear_clock>
+ </LABELS>
+</ASSEMBLER_INFO>

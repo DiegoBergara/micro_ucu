@@ -1,9 +1,9 @@
 .ORG 0x0000
-jmp start ; start direction (reset vector)
-.ORG 0x0008             ;direccion cuando se aprete el boton
-jmp	button_int  
+jmp start		; start direction (reset vector)
+.ORG 0x0008		
+jmp	button_int  ; button interruption
 .ORG 0x001C
-jmp _tmr0_int ; timer interruption direction
+jmp _tmr0_int ; timer interruption
 
 start:
 ; set leds output
