@@ -6,9 +6,12 @@
 
  // global variables
  int adcValue = 0;
-
- int ADC_O_1;
- int ADC_O_2;
+ int voltaje = 0;
+ double voltajeA = 0;
+ int a = 0;
+ int b = 0;
+ int c = 0;
+ int d = 0;
 
  void ADC_init(void)
  {
@@ -32,7 +35,13 @@
 	 {
 		 if ( (ADCSRA & 0x40) == 0)
 		 {
-			 adcValue = (ADC * 5) / 1024;
+			 voltaje = (((ADC+1)*10) * 5) / 1024;
+			 adcValue = ((ADC+1) * 5) / 1024;
+			 voltajeA =  ((ADC+1) * 5) % 100;
+			 a = ((ADC+1) * 5) / 100;
+			 b = voltaje % 1000 / 100;
+			 c = voltaje % 100 / 10;
+			 d = voltaje % 10;
 			 ADCSRA |= 0x40;
 		 }
 		 *pr16=adcValue;

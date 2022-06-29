@@ -22,12 +22,14 @@
   <FILE>ProyectoFinal.lss</FILE>
  </OUTPUT_FILES>
  <LABELS>
-  <setupADC><FILE>C:\Users\roera\OneDrive\Documents\micro_ucu\Final\Generador\main.asm</FILE><LINE>22</LINE></setupADC>
-  <convADC><FILE>C:\Users\roera\OneDrive\Documents\micro_ucu\Final\Generador\main.asm</FILE><LINE>11</LINE></convADC>
-  <nums><FILE>C:\Users\roera\OneDrive\Documents\micro_ucu\Final\Generador\main.asm</FILE><LINE>8</LINE></nums>
+  <setupADC><FILE>C:\Users\roera\OneDrive\Documents\micro_ucu\Final\Generador\main.asm</FILE><LINE>24</LINE></setupADC>
+  <convADC><FILE>C:\Users\roera\OneDrive\Documents\micro_ucu\Final\Generador\main.asm</FILE><LINE>10</LINE></convADC>
+  <nums><FILE>C:\Users\roera\OneDrive\Documents\micro_ucu\Final\Generador\main.asm</FILE><LINE>7</LINE></nums>
   <setupPuntero><FILE>C:\Users\roera\OneDrive\Documents\micro_ucu\Final\Generador\main.asm</FILE><LINE>36</LINE></setupPuntero>
-  <start><FILE>C:\Users\roera\OneDrive\Documents\micro_ucu\Final\Generador\main.asm</FILE><LINE>40</LINE></start>
-  <bucleGenerador><FILE>C:\Users\roera\OneDrive\Documents\micro_ucu\Final\Generador\main.asm</FILE><LINE>49</LINE></bucleGenerador>
+  <start><FILE>C:\Users\roera\OneDrive\Documents\micro_ucu\Final\Generador\main.asm</FILE><LINE>38</LINE></start>
+  <bucleGenerador><FILE>C:\Users\roera\OneDrive\Documents\micro_ucu\Final\Generador\main.asm</FILE><LINE>47</LINE></bucleGenerador>
+  <loop1><FILE>C:\Users\roera\OneDrive\Documents\micro_ucu\Final\Generador\main.asm</FILE><LINE>51</LINE></loop1>
+  <loop2><FILE>C:\Users\roera\OneDrive\Documents\micro_ucu\Final\Generador\main.asm</FILE><LINE>54</LINE></loop2>
   <generaNumero><FILE>C:\Users\roera\OneDrive\Documents\micro_ucu\Final\Generador\main.asm</FILE><LINE>64</LINE></generaNumero>
   <fin><FILE>C:\Users\roera\OneDrive\Documents\micro_ucu\Final\Generador\main.asm</FILE><LINE>72</LINE></fin>
  </LABELS>
